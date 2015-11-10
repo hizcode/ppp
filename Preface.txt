@@ -4,9 +4,7 @@ Preface
 
 Programming is the art of expressing solutions to problem so that a computer can execute those solutions.
 
-This book is for someone who has never programmed before but is willing to work hard to learn.
-How long will that take?
-If you work by yourself, maybe 15 hours a week for 14 weeks.
+This book is for someone who has never programmed before but is willing to work hard to learn. How long will that take? If you work by yourself, maybe 15 hours a week for 14 weeks.
 
 Three months may seem a long time, but there's a lot to learn and you'll be writing your first simple programs after about an hour.
 All learning is gradual.
@@ -35,3 +33,18 @@ Programming is one of the fundamental topics that underlie everything in compute
 
 Code can be beautiful as well as useful. This book is written to help you see that, to understand what it means for code to be beautiful, and to help you to master the principles and acquire the practical skills to create such code.
 
+A note to students
+
+Of the many thousands of first-year students we have taught so far using this book at Texas A&M University, about 60% had programmed before and about 40% had never seen a line of code in their lives. Most succeeded, so you can do it, too.
+
+The book is widely used for self-study. However, whether you work your way through as part of a course or independently, try to work with others. Most people work better and learn faster when they are part of a group with a common aim. Remember: programming is (among other things) a practical skill that you need to practice to master. If you don't write code (do several exercises for each chapter), reading this book will be a pointless theoretical exercise.
+
+Most students - especially thoughtful good students - faces times when they wonder whether their hard work is worthwhile. When (not if) this happens to you, take a break, reread this Preface, and look at Chapter 1 ("Computers, People, and Programming") and Chapter 22 ("Ideals and History"). There, I try to articulate what I find exciting about programming and why I consider it as crucial tool for making a positive contribution to the world.
+
+You might find the weight of this book worrying, but it should reassure you that part of the reason for the heft is that I prefer to repeat an explanation or add an example rather than have you search for the one and only explanation.
+
+And please don't be too impatient. Learning any major new and valuable skill takes time and is worth it.
+
+A note to teachers
+
+It is a book about how to construct working software. It is about programming (or more generally about how to develop software), and as such it goes into more detail about fewer topics than many traditional courses.

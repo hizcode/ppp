@@ -1,0 +1,5 @@
+0. Notes to the Reader
+
+"When the terrain disagrees with the map, trust the terrain." - Swiss army proverb
+
+This chapter is a grab bag of information; it aims to give you an idea of what to expect from the rest of the book. Please skim through it and read what you find interesting. A teacher will find most parts immediately useful. If you are reading this book without the benefit of a good teacher, please don't try to read and understand everything in this chapter; just look at "The structure of the book" and the first part of the "A philosophy of teaching and learning" sections. You may want to return and reread this chapter once you feel comfortable writing and executing small programs.

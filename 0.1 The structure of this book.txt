@@ -1,0 +1,16 @@
+0.1 The structure of this book
+
+This book consists of four parts and a collection of appendices:
+
+* Part I, "The Basics," presents the fundamental concepts and techniques of programming together with the C++ language and library facilities needed to get started writing code.
+
+* Part II, "Input and Output," describes how to get numeric and text data from the keyboard and from files, and how to produce corresponding output to the screen and to files.
+
+* Part III, "Data and Algorithms," focuses on the C++ standard library's container and algorithms framework (the STL, standard template library).
+
+* Part IV, "Broadening the View," offers a perspective on programming through a discussion of ideals and history, through examples (such as matrix computation, text manipulation, testing, and embedded systems programming), and through a brief description of the C language.
+
+* Appendices provide useful information that doesn't fit into a tutorial presentation, such as surveys of C++ language and standard library facilities, and descriptions of how to get started with an integrated development environment (IDE) and a graphical user interface (GUI) library.
+
+The "parts" of this book provide only a coarse classification of topics.
+
