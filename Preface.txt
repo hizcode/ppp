@@ -11,13 +11,13 @@ If you work by yourself, maybe 15 hours a week for 14 weeks.
 Three months may seem a long time, but there's a lot to learn and you'll be writing your first simple programs after about an hour.
 All learning is gradual.
 
-Without understanding software you are reduced to believing in "magic" and will be locked out of many of the most interesting, profitable, and socially useful technical fields of work.
+Without understanding software you are reduced to believing in "magic" and will be locked out of many of the most interesting, profitable, and socially useful technical fields of work. Like mathematics, programming - when done well - is a valuable intellectual exercise that sharpens our ability to think. However, thanks to feedback from the computer, programming is more concrete than most forms of math, and therefore accessible to more people.
 
 Why C++? You can't learn to program without a programming language, and C++ directly supports the key concepts and techniques used in real-world software.
 
 This is not the easiest book on beginning programming; it is not meant to be. I just aim for it to be the easiest book from which you can learn the basics of real-world programming. That's quite an ambitious goal because much modern software relies on techniques considered advanced just a few years ago.
 
-My fundamental assumption is that you want to write programs for the use of others, and to so responsibly, providing a decent level of system quality; that is, I assume that you want to achieve a leel of professionalism.
+My fundamental assumption is that you want to write programs for the use of others, and to so responsibly, providing a decent level of system quality; that is, I assume that you want to achieve a level of professionalism.
 
 If you desire to use the work of others without understanding how things are done and without adding significantly to the code yourself, this book is not for you.
 
@@ -30,4 +30,8 @@ Unless your name is Stroustrup, what I discuss here is not "your father's C++."
 Programming is learned by writing programs. There is no substitute for writing code.
 
 There is more to programming - much more - than following a few rules and reading the manual. Understanding thefundamental ideals, principles, and techniques is the essence of a good programmer. Only well-designed code has a chance of becoming part of a correct, reliable, and maintainable system.
+
+Programming is one of the fundamental topics that underlie everything in computer-related fields, and it has a natural place in a balanced course of computer science. I provide brief introductions to key concepts and techniques of algorithms, data structures, user interfaces, data processing, and software engineering.
+
+Code can be beautiful as well as useful. This book is written to help you see that, to understand what it means for code to be beautiful, and to help you to master the principles and acquire the practical skills to create such code.
 
