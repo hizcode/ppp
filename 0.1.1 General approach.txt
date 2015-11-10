@@ -1,0 +1,13 @@
+0.1.1 General approach
+
+Green: advice
+This book is designed to be read chapter by chapter from the beginning to the end. Often, you'll want to go back to look at something a second or a third time. In fact, that's the only sensible approach, as you'll always dash past some details that you don't yet see the point in. In such cases, you'll eventually go back again. However, despite the index and the cross-references, this is not a book that you can open to any page and start reading with any expectation of success. Each section and each chapter assume understanding of what came before.
+
+Each chapter is a reasonably self-contained unit, meant to be read in "one sitting" (logically, if not always feasible on a student's tight schedule). Please don't take "in one sitting" too literally.
+
+We aim to ask and answer questions tht you need to consider when writing quality software for the use of others. Learning to ask the right (often hard) questions is an essential part of learning to think as a programmer.
+
+We try to respect your intelligence and to be considerate about your time. We try not to exaggerater the importance of a programming technique or a language feature, but please don't underestimate a simple statement like "This is often useful."
+
+Blue: concept and technique
+We do not pretend that our ideas or the tools offered are perfect. No tool, library, language, or technique is "the solution" to all of the many challenges facing a programmer. At best, it can help you develop and expess your solution. We try hard to avoid "white lies"; that is, we refrain from oversimplified explanations that are clear and easy to understand, but not true in the context of real language and real problems.

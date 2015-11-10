@@ -14,3 +14,9 @@ This book consists of four parts and a collection of appendices:
 
 The "parts" of this book provide only a coarse classification of topics.
 
+The order of topics is determined by programming techniques, rather than programming language features.
+
+To ease review and to help you if you miss a key point during a first reading where you have yet to discover which kind of information is crucial, we place three kinds of "alert markers" in the margin:
+* Blue: concepts and techniques (this paragraph is an example of that)
+* Green: advice
+* Red: warning
