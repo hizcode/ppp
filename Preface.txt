@@ -16,7 +16,7 @@ Why C++? You can't learn to program without a programming language, and C++ dire
 
 This is not the easiest book on beginning programming; it is not meant to be. I just aim for it to be the easiest book from which you can learn the basics of real-world programming. That's quite an ambitious goal because much modern software relies on techniques considered advanced just a few years ago.
 
-My fundamental assumption is that you want to write programs for the use of others, and to so responsibly, providing a decent level of system quality; that is, I assume that you want to achieve a level of professionalism.
+My fundamental assumption is that you want to write programs for the use of others, and to do so responsibly, providing a decent level of system quality; that is, I assume that you want to achieve a level of professionalism.
 
 If you desire to use the work of others without understanding how things are done and without adding significantly to the code yourself, this book is not for you.
 
