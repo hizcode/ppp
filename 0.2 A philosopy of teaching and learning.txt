@@ -1,0 +1,23 @@
+0.2 A philosophy of teaching and learning
+
+What are we trying to help you learn? And how are we approaching the process of teaching? We try to present the minimal concepts, techniques, and tools for you to do effective practical programs, including
+• Program organization
+• Debugging and testing
+• Class design
+• Computation
+• Function and algorithm design
+• Graphics (two-dimensional only)
+• Graphical user interfaces (GUIs)
+• Text manipulation
+• Regular expression matching
+• Files and stream input and output (I/O)
+• Memory management
+• Scientific/numerical/engineering calculations
+• Design and programming ideals
+• The C++ standard library
+• Software development strategies
+• C-language programming techniques
+
+The main topic of this book is programming, that is, the ideals, techniques, and tools of expressing ideas in code. This is “programming using C++,” not “C++ with a bit of programming theory.”
+
+Each topic we address serves at least two purposes: it presents a technique, concept, or principle and also a practical language or library feature.
