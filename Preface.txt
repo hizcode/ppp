@@ -7,6 +7,7 @@ Programming is the art of expressing solutions to problem so that a computer can
 This book is for someone who has never programmed before but is willing to work hard to learn. How long will that take? If you work by yourself, maybe 15 hours a week for 14 weeks.
 
 Three months may seem a long time, but there's a lot to learn and you'll be writing your first simple programs after about an hour.
+
 All learning is gradual.
 
 Without understanding software you are reduced to believing in "magic" and will be locked out of many of the most interesting, profitable, and socially useful technical fields of work. Like mathematics, programming - when done well - is a valuable intellectual exercise that sharpens our ability to think. However, thanks to feedback from the computer, programming is more concrete than most forms of math, and therefore accessible to more people.
