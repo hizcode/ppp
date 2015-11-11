@@ -1,0 +1,9 @@
+0.1.3 What comes after this book?
+
+Green: advice
+At the end of this book, will you be an expert at programming and at C++? Of course not! When done well, programming is subtle, deep, and highly skilled art building on a variety of technical skills.
+
+The best follow-up to this initial course is to work on a real project developing code to be used by someone else.
+
+Green: advise
+Eventually, you should learn another programming language. We don't consider it possible to be a professional in the realm of software - even if you are not primarily a programmer - without knowing more than one language.
